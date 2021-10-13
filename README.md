@@ -1,5 +1,32 @@
 <h1 align="center">Hi 👋, I'm Lucas Ruiz</h1>
-<h3 align="center">A passionate frontend developer from Jujuy - Argentina</h3>
+<h3 align="center">A passionate full stack developer from Jujuy - Argentina</h3>
+
+- 🤓 A little about me:
+```javascript
+const lucasruiz12 = {
+    name: "Lucas Gabriel Ruiz",
+    nickname: "Chato Ruiz",
+    hometown: "Jujuy - Argentina",
+    livingAt: "Córdoba - Argentina",
+    roles: ["Student", "Musician", "Teacher", "Friend"],
+    code: ["Javascript", "Typescript", "HTML", "CSS"],
+    technologies: {
+       frontEnd: {
+          js: ["React", "Redux"],
+       },
+       backEnd: {
+          js: ["Node", "Express"],
+       },
+       databases: ["PostgreSQL"],
+    },
+    jobHunting: true
+  }; 
+```
+- 🔭 I’m currently working on [Mates - Mati](https://github.com/guidoabelleira/E-Commerce-PF10)
+
+- 😎 This is my Single Page Application [Countries App](https://github.com/lucasruiz12/PI-Countries)
+
+- 📫 How to reach me **lucaschatoruiz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
