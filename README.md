@@ -1,16 +1,20 @@
-### Hi there 👋, I'm Lucas Ruiz!
+### Hello World 👋, I'm Lucas Ruiz!
 
-<!--
-**lucasruiz12/lucasruiz12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const lucasruiz12 = {
+   name: "Lucas Gabriel Ruiz",
+   nickname: "Chato Ruiz",
+   hometown: "Jujuy - Argentina",
+   livingAt: "Córdoba - Argentina"
+   roles: ["Student", "Musician", "Teacher", "Friend"],
+   code: ["Javascript", "Typescript", "HTML", "CSS"],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Redux"],
+      },
+      backEnd: {
+         js: ["Node", "Express"],
+      },
+      databases: ["PostgreSQL"],
+   },
+   jobHunting: true,
+}; 
