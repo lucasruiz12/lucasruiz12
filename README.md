@@ -9,7 +9,7 @@ const lucasruiz12 = {
     hometown: "Jujuy - Argentina",
     livingAt: "Córdoba - Argentina",
     roles: ["Student", "Musician", "Teacher", "Friend"],
-    code: ["Javascript", "Typescript", "HTML", "CSS"],
+    code: ["JavaScript", "TypeScript", "HTML", "CSS"],
     technologies: {
        frontEnd: {
           js: ["React", "Redux"],
