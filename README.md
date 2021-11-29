@@ -22,7 +22,7 @@ const lucasruiz12 = {
     jobHunting: true
   }; 
 ```
-- 🔭 I’m currently working on [Mates - Mati](https://github.com/guidoabelleira/E-Commerce-PF10)
+- 🔎 This is my final job (E-commerce) [Mates - Mati](https://github.com/guidoabelleira/E-Commerce-PF10)
 
 - 😎 This is my Single Page Application [Countries App](https://github.com/lucasruiz12/PI-Countries)
 
