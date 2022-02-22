@@ -8,7 +8,7 @@ const lucasruiz12 = {
     nickname: "Chato Ruiz",
     hometown: "Jujuy - Argentina",
     livingAt: "Córdoba - Argentina",
-    roles: ["Student", "Musician", "Teacher", "Friend"],
+    roles: ["Student", "Developer", "Musician", "Teacher", "Friend"],
     code: ["JavaScript", "TypeScript", "HTML", "CSS"],
     technologies: {
        frontEnd: {
