@@ -19,7 +19,16 @@ const lucasruiz12 = {
        },
        databases: ["PostgreSQL"],
     },
-    jobHunting: true
+    workPlaces: {
+        radar: {
+            from: "México",
+            role: "Front-End"
+        },
+        coderhouse: {
+            from: "World",
+            role: "Tutor"
+        },
+    },
   }; 
 ```
 - 🔎 This is my final job (E-commerce) [Mates - Mati](https://github.com/guidoabelleira/E-Commerce-PF10)
