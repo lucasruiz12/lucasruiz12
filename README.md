@@ -7,6 +7,7 @@ const lucasruiz12 = {
     name: "Lucas Gabriel Ruiz",
     nickname: "Chato Ruiz",
     hometown: "Jujuy - Argentina",
+    favouriteTeam: "Gimnasia y Esgrima de Jujuy",
     livingAt: "Córdoba - Argentina",
     roles: ["Student", "Developer", "Musician", "Teacher", "Friend"],
     code: ["JavaScript", "TypeScript", "HTML", "CSS"],
@@ -26,14 +27,11 @@ const lucasruiz12 = {
         },
         coderhouse: {
             from: "World",
-            role: "Tutor"
+            roles: ["Tutor", "Professor"]
         },
     },
   }; 
 ```
-- 🔎 This is my final job (E-commerce) [Mates - Mati](https://github.com/guidoabelleira/E-Commerce-PF10)
-
-- 😎 This is my Single Page Application [Countries App](https://github.com/lucasruiz12/PI-Countries)
 
 - 📫 How to reach me **lucaschatoruiz@gmail.com**
 
