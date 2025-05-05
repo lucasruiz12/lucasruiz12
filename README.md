@@ -29,6 +29,10 @@ const lucasruiz12 = {
             from: "World",
             roles: ["Tutor", "Professor"]
         },
+        alkemy: {
+            from: "Argentina",
+            role: "Full Stack Developer"
+        }
     },
   }; 
 ```
